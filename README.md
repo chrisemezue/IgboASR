@@ -6,7 +6,7 @@ OkwuGbé is a step towards building speech recognition systems for African low-r
 Ende-to-end automatic speech recognition model for Igbo language.
 
 ## Experiments
-Here is the open-source ode for the model and data preprocessing steps for Igbo language. For Fon language, see [here](https://github.com/bonaventuredossou/fonasr).
+Here is the open-source code for the model and data preprocessing steps for Igbo language. For Fon language, see [here](https://github.com/bonaventuredossou/fonasr).
 For the full model architecture, see [here](https://drive.google.com/file/d/1gT4r1R8Iq_183WkU3l0nNtdy4YYvYHPp/view?usp=sharing)
 
 ## Citation
